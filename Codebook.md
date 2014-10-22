@@ -35,6 +35,7 @@ time body gyroscope standard deviation y
 time body gyroscope standard deviation z
 
 The average of the time domain body angular velocity jerk signal mean and standard deviation in xyz 3-axial
+
 time body gyroscope jerk mean x                                       
 time body gyroscope jerk mean y                                       
 time body gyroscope jerk mean z                                       
@@ -42,17 +43,19 @@ time body gyroscope jerk standard deviation x
 time body gyroscope jerk standard deviation y                         
 time body gyroscope jerk standard deviation z
 
-The average of the time domain body acceleration magnitude mean and standard deviation in xyz 3-axial
-time body acceleration magnification mean                             
-time body acceleration magnification standard deviation           
-time gravity acceleration magnification mean                          
-time gravity acceleration magnification standard deviation            
-time body acceleration jerk magnification mean                        
-time body acceleration jerk magnification standard deviation          
-time body gyroscope magnification mean                                
-time body gyroscope magnification standard deviation                  
-time body gyroscope jerk magnification mean                           
-time body gyroscope jerk magnification standard deviation             
+The average of the time domain body and gravity acceleration magnitude mean and standard deviation in xyz 3-axial
+time body acceleration magnitude mean                             
+time body acceleration magnitude standard deviation           
+time gravity acceleration magnitude mean                          
+time gravity acceleration magnitude standard deviation
+
+time body acceleration jerk magnitude mean                        
+time body acceleration jerk magnitude standard deviation          
+time body gyroscope magnitude mean                                
+time body gyroscope magnitude standard deviation                  
+time body gyroscope jerk magnitude mean                           
+time body gyroscope jerk magnitude standard deviation
+
 frequency body acceleration mean x                                    
 frequency body acceleration mean y                                    
 frequency body acceleration mean z                                    
@@ -64,7 +67,8 @@ frequency body acceleration jerk mean y
 frequency body acceleration jerk mean z                               
 frequency body acceleration jerk standard deviation x                 
 frequency body acceleration jerk standard deviation y                 
-frequency body acceleration jerk standard deviation z                 
+frequency body acceleration jerk standard deviation z
+
 frequency body gyroscope mean x                                       
 frequency body gyroscope mean y                                       
 frequency body gyroscope mean z                                       
