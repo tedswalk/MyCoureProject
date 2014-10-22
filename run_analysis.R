@@ -83,7 +83,7 @@ names(combine_list) <- sub("tbodygyromag","time body gyroscope magnitude",names(
 names(combine_list) <- sub("tbodygyro","time body gyroscope",names(combine_list))
 names(combine_list) <- sub("fbodyaccjerk","frequency body acceleration jerk",names(combine_list))
 names(combine_list) <- sub("fbodygyrojerk","frequency body gyroscope jerk",names(combine_list))
-names(combine_list) <- sub("fbodyaccmag","frequency body acceleration mag",names(combine_list))
+names(combine_list) <- sub("fbodyaccmag","frequency body acceleration magnitude",names(combine_list))
 names(combine_list) <- sub("fbodyacc","frequency body acceleration",names(combine_list))
 names(combine_list) <- sub("fbodybodygyrojerkmag","frequency body body gyroscope jerk magnitude",names(combine_list))
 names(combine_list) <- sub("fbodybodyaccjerkmag","frequency body body acceleration jerk magnitude",names(combine_list))
